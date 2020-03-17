@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+ 
+
+  	  <string name="ZiKuFile1">&quot;pt_ziku_0170112.bin&quot;</string>
+   
+  	 <string name="itpw">              Updating Firmware......</string>
+  	 <string name="itpw2">              Updating Font lib......</string>
+  	 <string name="Determine">"OK"</string>
+	<string name="cancel">"Cancel"</string>
+	<string name="UpdateFWWarn">"warning: the version chosen is old"</string>
+	
+	<string name="CharDemo">"Char Demo"</string>
+	<string name="CodeDemo">"Code Demo"  </string>
+	<string name="ImageDemo">"Image Demo" </string>
+	<string name="GetVersion">"Get Version" </string>
+	<string name="UpdateVersion">"Update Version" </string>
+	<string name="UpdateFontLib">"Update Font Lib" </string> 
+	<string name="WarningTimeIsLong">"Updating Font Lib will Take about 6 minutes" </string> 
+	<string name="quit">"Quit" </string>
+ 	<string name="app_name">File Explore</string>				
+    <string name="previousFWV"> "Previous firmware version :" </string>	
+	<string name="currentFWV"> "Current firmware version :" </string>
+	
+	<string name="updateFWFinish">"update firmware finish"</string>
+
+	<string name="selectFW">"Select FirmWare File"</string>
+ 
+	<string name="appName">"Serail Port Console"</string>
+ 
+	
+	<string name="getV"> "get version" </string>	
+	
+	<string name="hello">Hello World,  FileExplorer!</string>
+	<string-array name="language">
+	<item>"U.S.          "</item> 
+	<item>"the French    "</item>
+	<item>"German        "</item>
+	<item>"British       "</item>
+	<item>"I Denmark     "</item>
+	<item>"the Swedish   "</item>
+	<item>"Italian       "</item>
+	<item>"Spain  I      "</item>
+	<item>"Japan         "</item>
+	<item>"Norway        "</item>
+	<item>"the Danish II "</item>
+	<item>"the Spanish II"</item>
+	<item>"Latin America "</item>
+	<item>"south Korean  "</item>
+	<item>"slovenija/crow emperor"</item>
+	<item>"Chinese"</item>
+	</string-array> 
+	<string name="CurrentLanguageis"> "Current Printer Language Is :" </string>	
+
+	<string name="IsOutOfPaper"> "The printer is out of paper" </string>
+	<string name="HavePaper"> "The printer has a paper" </string> 
+	<string name="itpw3">              getting the priner information......</string>
+	<string name="itpw4">              "have updated Font lib "</string>
+	<string name="PrinterNotNormal1"> "The printer is too hot" </string>
+</resources>

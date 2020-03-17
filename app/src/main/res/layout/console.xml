@@ -1,0 +1,81 @@
+
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingBottom="60dip"
+    android:gravity="center_horizontal"
+    >
+
+
+
+    <Button
+        android:id="@+id/ButtonCodeDemo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:text="@string/CodeDemo" />
+
+    <Button
+        android:id="@+id/ButtonImageDemo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:text="@string/ImageDemo" />
+
+    <Button
+        android:id="@+id/GetVersion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:text="@string/GetVersion" />
+    <Button
+        android:id="@+id/UpdateVersion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:text="@string/UpdateVersion" />
+     <Button
+        android:id="@+id/UpdateFontLib"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+         android:visibility="gone"
+        android:text="@string/UpdateFontLib" /> 
+     <Button
+        android:id="@+id/quit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+         android:visibility="gone"
+        android:text="@string/quit" />
+    <TextView
+        android:paddingTop="550px"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="20sp"
+        android:layout_weight="0.45"
+        android:ems="10"
+        android:gravity="center_horizontal"
+        android:text=" " />
+    <Button
+
+        android:id="@+id/ButtonCharacterDemo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:text="@string/CharDemo" />
+           
+<TextView
+    android:id="@+id/TextViewSerialRx"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:textSize="20sp"		
+    android:layout_weight="0.45"
+    android:ems="10"
+    android:gravity="center_horizontal"
+    android:text="请点击打印字符测试按钮开始测试" />
+
+</LinearLayout>
+
